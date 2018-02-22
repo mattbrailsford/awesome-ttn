@@ -5,12 +5,16 @@
 # Awesome TTN [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome things related to [The Things Network](https://www.thethingsnetwork.org/)
 
+- [Learn](#learn)
 - [Planning](#planning)
 - [Mapping](#mapping)
 - [Events](#events)
 - [Hardware](#hardware)
   - [Gateways](#gateways)
   - [Nodes](#nodes)
+
+## Learn
+- [Documentation](https://www.thethingsnetwork.org/docs/)
 
 ## Planning
 - [Solwise Elevation Tool](https://www.solwise.co.uk/wireless-elevationtool.html) - A tool to analyse the surface elevation profile from one geo point to another
