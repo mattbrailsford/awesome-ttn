@@ -1,6 +1,6 @@
-<div style="text-align: center;margin-bottom: 20px;">
+<p align="center">
   <img src="logo.png" alt="Awesome TTN" width="200" />
-</div>
+</p>
 
 # Awesome TTN
 A curated list of awesome things related to [The Things Network](https://www.thethingsnetwork.org/)
