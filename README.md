@@ -20,6 +20,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 ### Hardware
 #### Gateways
 - [The Things Gateway](https://shop.thethingsnetwork.com/index.php/product/the-things-gateway/)
+- [LORIX ONE](https://www.lorixone.io/#products)
 
 #### Nodes
 - [The Things Uno](https://shop.thethingsnetwork.com/index.php/product/the-things-uno/)
