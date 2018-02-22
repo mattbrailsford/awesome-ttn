@@ -9,7 +9,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 - [Mapping](#mapping)
 
 ### Planning
-- [Solwise Elevation Tool](https://www.solwise.co.uk/wireless-elevationtool.html)
+- [Solwise Elevation Tool](https://www.solwise.co.uk/wireless-elevationtool.html) - A tool to analyse the surface elevation profile from one geo point to another
 
 ### Mapping
 - [TTN Mapper](https://ttnmapper.org/)
