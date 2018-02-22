@@ -1,5 +1,5 @@
 <div style="text-align: center;margin-bottom: 20px;">
-  <img src="logo.png" alt="Awesome TTN" style="width: 200px;" />
+  ![Awesome TTN](logo.png | width=100)
 </div>
 
 # Awesome TTN
