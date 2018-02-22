@@ -1,3 +1,5 @@
+[!Awesome TTN](logo.png)
+
 # Awesome TTN
 A curated list of awesome things related to [The Things Network](https://www.thethingsnetwork.org/)
 
