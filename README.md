@@ -22,6 +22,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 
 ## Mapping
 - [TTN Mapper](https://ttnmapper.org/)
+- [Adeunis - Field Test Device](https://www.adeunis.com/en/produit/ftd-868-915-2/)
 
 ## Hardware
 ### Gateways
