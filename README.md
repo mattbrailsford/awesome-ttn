@@ -15,6 +15,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 
 ## Learn
 - [Documentation](https://www.thethingsnetwork.org/docs/)
+- [LoRaWAN Academy](http://lorawanacademy.semtech.com/)
 
 ## Planning
 - [Solwise Elevation Tool](https://www.solwise.co.uk/wireless-elevationtool.html) - A tool to analyse the surface elevation profile from one geo point to another
