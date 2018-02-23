@@ -27,6 +27,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 ### Gateways
 - [The Things Gateway](https://shop.thethingsnetwork.com/index.php/product/the-things-gateway/)
 - [LORIX ONE](https://www.lorixone.io/#products)
+- [TTN Liverpool Raspberry Pi Gateway](https://git.defproc.co.uk/ttn_liv/rpi-gateways)
 
 ### Nodes
 - [The Things Uno](https://shop.thethingsnetwork.com/index.php/product/the-things-uno/)
