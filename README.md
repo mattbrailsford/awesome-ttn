@@ -19,6 +19,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 
 ## Planning
 - [Solwise Elevation Tool](https://www.solwise.co.uk/wireless-elevationtool.html) - A tool to analyse the surface elevation profile from one geo point to another
+- [Radio Mobile Online](http://www.ve2dbe.com/rmonline.html) - An online radio wave propagation prediction tool 
 
 ## Mapping
 - [TTN Mapper](https://ttnmapper.org/)
