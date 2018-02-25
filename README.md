@@ -11,6 +11,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 - [Hardware](#hardware)
   - [Gateways](#gateways)
   - [Nodes](#nodes)
+  - [Antennas](#antennas)
 - [Events](#events)
 
 ## Learn
