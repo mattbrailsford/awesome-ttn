@@ -39,7 +39,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 - [Rocket Scream - Mini Ultra Pro](http://www.rocketscream.com/blog/product/mini-ultra-pro-v3-with-radio/)
 
 ### Atennas
-= [Custom built supplier - stanislavpalo130 on eBay](https://www.ebay.co.uk/usr/stanislavpalo130?_trksid=p2047675.l2559)
+- [Custom built supplier - stanislavpalo130 on eBay](https://www.ebay.co.uk/usr/stanislavpalo130?_trksid=p2047675.l2559)
 
 ## Events
 - [The Things Conference](https://www.thethingsnetwork.org/conference/)
