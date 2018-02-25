@@ -30,12 +30,16 @@ A curated list of awesome things related to [The Things Network](https://www.the
 - [The Things Gateway](https://shop.thethingsnetwork.com/index.php/product/the-things-gateway/)
 - [LORIX ONE](https://www.lorixone.io/#products)
 - [TTN Liverpool Raspberry Pi Gateway](https://git.defproc.co.uk/ttn_liv/rpi-gateways)
+- [IC880A - LoRaWAN Concentrator](http://shop.imst.de/wireless-modules/lora-products/8/ic880a-spi-lorawan-concentrator-868-mhz)
 
 ### Nodes
 - [The Things Uno](https://shop.thethingsnetwork.com/index.php/product/the-things-uno/)
 - [The Things Node](https://shop.thethingsnetwork.com/index.php/product/the-things-node/)
 - [BSFrance - LoRa32U4 II](https://bsfrance.fr/lora-long-range/1345-LoRa32u4-II-Lora-LiPo-Atmega32u4-SX1276-HPD13-868MHZ-EU-Antenna.html)
 - [Rocket Scream - Mini Ultra Pro](http://www.rocketscream.com/blog/product/mini-ultra-pro-v3-with-radio/)
+
+### Atennas
+= [Custom built supplier - stanislavpalo130 on eBay](https://www.ebay.co.uk/usr/stanislavpalo130?_trksid=p2047675.l2559)
 
 ## Events
 - [The Things Conference](https://www.thethingsnetwork.org/conference/)
