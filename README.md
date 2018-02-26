@@ -39,7 +39,7 @@ A curated list of awesome things related to [The Things Network](https://www.the
 - [BSFrance - LoRa32U4 II](https://bsfrance.fr/lora-long-range/1345-LoRa32u4-II-Lora-LiPo-Atmega32u4-SX1276-HPD13-868MHZ-EU-Antenna.html)
 - [Rocket Scream - Mini Ultra Pro](http://www.rocketscream.com/blog/product/mini-ultra-pro-v3-with-radio/)
 
-### Atennas
+### Antennas
 - [Custom built supplier - stanislavpalo130 on eBay](https://www.ebay.co.uk/usr/stanislavpalo130?_trksid=p2047675.l2559)
 
 ## Events
